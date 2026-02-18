@@ -47,15 +47,15 @@ Users need to give and receive feedback quickly without leaving the video,
 Annotations should be visible, readable, and easy to scan.
 
 Design Link: https://www.figma.com/design/maPqCwO0jEwI8nJpcY2BZF/Untitled?node-id=4-4565&t=IMcMufTmIhBn8A9k-1
-<img width="1280" height="832" alt="Dashboard (6)" src="https://github.com/user-attachments/assets/a4f150ee-48ba-4b36-a5e9-920c720e086f" />
-<img width="1280" height="832" alt="Videos" src="https://github.com/user-attachments/assets/882f4862-ca4b-40d8-930a-73b01698a9e2" />
-<img width="1280" height="832" alt="Videos-Annotations" src="https://github.com/user-attachments/assets/02ad4435-3cb0-4e16-98b0-83faa2455c35" />
-<img width="1280" height="832" alt="Login page" src="https://github.com/user-attachments/assets/25216194-c720-49b4-8bd1-6ac423fd0d11" />
-<img width="1280" height="832" alt="Acount Verification" src="https://github.com/user-attachments/assets/cbd5600e-92e8-4248-ad46-ad2acfe45220" />
-<img width="1280" height="832" alt="Videos (1)" src="https://github.com/user-attachments/assets/63b5fde6-eb53-4eea-931c-7840b5062360" />
-<img width="1280" height="832" alt="Annotations" src="https://github.com/user-attachments/assets/e424c1b8-63ea-4a43-8d36-519154eb5786" />
-<img width="1280" height="832" alt="Videos-Annotations (1)" src="https://github.com/user-attachments/assets/1f69c3e0-5105-4e98-88dc-4e4a7c860bb0" />
-<img width="1280" height="832" alt="Videos-Bookmarks" src="https://github.com/user-attachments/assets/e333ca09-95f7-4c0a-9675-ddbca1bc003d" />
+<img width="1280" height="832" alt="Dashboard (6)" src="https://github.com/user-attachments/assets/b6687967-bdde-4195-ad24-f241eafdb2f6" />
+<img width="1280" height="832" alt="Videos" src="https://github.com/user-attachments/assets/9a970739-18a7-44c5-9792-269990a9e7bf" />
+<img width="1280" height="832" alt="Login page" src="https://github.com/user-attachments/assets/e8168e57-3859-471d-8def-67873b01ac52" />
+<img width="1280" height="832" alt="Acount Verification" src="https://github.com/user-attachments/assets/8ba3939b-26ad-4106-bb5d-b59b86b14293" />
+<img width="1280" height="832" alt="Videos (1)" src="https://github.com/user-attachments/assets/61c1338e-ba8a-4123-ad00-a1f82c77ee28" />
+<img width="1280" height="832" alt="Annotations" src="https://github.com/user-attachments/assets/c04db2a7-d1f4-41e1-9dad-d77df22c30be" />
+<img width="1280" height="832" alt="Videos-Annotations (1)" src="https://github.com/user-attachments/assets/8ebe0085-b02b-45f1-834b-924ae55a2013" />
+<img width="1280" height="832" alt="Videos-Bookmarks" src="https://github.com/user-attachments/assets/93d2696b-3ea9-465a-b513-beb5026154a2" />
+
 
 
 

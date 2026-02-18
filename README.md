@@ -1,4 +1,4 @@
-# Video-Annotation-App-Saranda-Selimi
+# Video Annotation App-Saranda-Selimi
 ClipNotes – Video Annotation App (UI/UX Design)
 
 ClipNotes is a UI/UX design project for a video annotation platform that helps teams review, comment, and collaborate on video content.
